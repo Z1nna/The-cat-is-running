@@ -1,0 +1,10 @@
+C:\Users\Никита\Desktop\The cat is running\The cat is running\obj\Debug\The cat is running.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\The cat is running\The cat is running\obj\Debug\The_cat_is_running.Properties.Resources.resources
+C:\Users\Никита\Desktop\The cat is running\The cat is running\obj\Debug\The cat is running.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\The cat is running\The cat is running\obj\Debug\The cat is running.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\The cat is running\The cat is running\bin\Debug\The cat is running.exe.config
+C:\Users\Никита\Desktop\The cat is running\The cat is running\bin\Debug\The cat is running.exe
+C:\Users\Никита\Desktop\The cat is running\The cat is running\bin\Debug\The cat is running.pdb
+C:\Users\Никита\Desktop\The cat is running\The cat is running\obj\Debug\The_cat_is_running.Main.resources
+C:\Users\Никита\Desktop\The cat is running\The cat is running\obj\Debug\The cat is running.exe
+C:\Users\Никита\Desktop\The cat is running\The cat is running\obj\Debug\The cat is running.pdb
